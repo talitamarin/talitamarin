@@ -4,8 +4,8 @@ Meu nome é Talita Marin, uma estudante apaixonada por programação em busca de
 <strong>Contato:</strong> talita-smarin@outlook.com
 
 <div  align="center" style="margin-bottom:100px">
-<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api?username=talitamarin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default" />
-<img width=35% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitamarin&hide_progress=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitamarin&layout=compact" alt="talitamarin" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=talitamarin&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dark" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=talitamarin&show_icons=true&theme=transparent" alt="talitamarin" style="max-width: 100%;">
 </div>
 
 <br>
